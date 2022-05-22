@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+code/dmap_Ursa.egg-info/PKG-INFO
+code/dmap_Ursa.egg-info/SOURCES.txt
+code/dmap_Ursa.egg-info/dependency_links.txt
+code/dmap_Ursa.egg-info/top_level.txt

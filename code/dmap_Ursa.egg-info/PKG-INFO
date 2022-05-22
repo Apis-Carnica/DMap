@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: dmap-Ursa
+Version: 0.0.1
+Summary: Nmap integration into Discord.
+Home-page: https://github.com/nateac1/DMap
+Author: Nathan Christensen
+Author-email: ursa@artiotech.org
+Project-URL: Bug Tracker, https://github.com/nateac1/DMap/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPLv3 License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 <div id="top"></div>
 <!-- PROJECT SHIELDS -->
 ![Read the Docs](https://img.shields.io/readthedocs/dmap)
@@ -62,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![dmap-screenshot](https://cdn.discordapp.com/attachments/454864152486477825/977821349877809192/Screenshot_20220521-222728_Discord.png)
+[![DMap in Action][dmap-screenshot]](https://cdn.discordapp.com/attachments/454864152486477825/977821349877809192/Screenshot_20220521-222728_Discord.png)
 
 Whether I'm working on HackTheBox challenges, or require a convenient way to scan a domain while I'm on the road, I always have access to Discord. The PoC of this project was started a few years ago, and this time a full-fledged environment will be available to all who need it. DMap intends to offer a convenient environment for scanning over a VPN connection, such as HackTheBox, remote enterprise, or CTF connections. Some functionality for creating a VPN connection to the device in order to scan local networks is in the works, but may be a bit delayed.
 
