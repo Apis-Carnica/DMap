@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!-- PROJECT SHIELDS -->
-![[Read the Docs](https://img.shields.io/readthedocs/dmap)]
+![[Read the Docs](https://img.shields.io/readthedocs/dmap)](https://dmap.readthedocs.io/en/)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nateac1/DMap)
 ![Discord](https://img.shields.io/discord/977772351519342592)
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fdmap.org)
